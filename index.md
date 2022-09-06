@@ -12,7 +12,7 @@ excerpt: >
   Public Domain Map is a project of OpenStreetMap US that allows map contributors across the United States to edit, contribute to, and consume federal datasets via a collaborative user environment and modified versions of popular OpenStreetMap tools; simultaneously improving government datasets and OpenStreetMap.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/fra_railroadtunnels.png
     alt: "customizable"
     title: "Map Railroad Tunnels in Colorado"
     excerpt: "Assist the Federal Railroad Administration in mapping the location of railroad tunnels in Colorado."
