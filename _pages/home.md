@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/tm_pd_map_banner_with_white_layer.jpg
