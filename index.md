@@ -6,33 +6,33 @@ header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/tm_pd_map_banner_with_white_layer.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> Start Mapping"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  Public Domain Map is a project of OpenStreetMap US that allows map contributors across the United States to edit, contribute to, and consume federal datasets via a collaborative user environment and modified versions of popular OpenStreetMap tools; simultaneously improving government datasets and OpenStreetMap.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Map Railroad Tunnels in Colorado"
+    excerpt: "Assist the Federal Railroad Administration in mapping the location of railroad tunnels in Colorado."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Start Mapping"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    title: "Example Project"
+    excerpt: "Here's where we'll add a quick blurb about the mapping task & end user agency."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Start Mapping"
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    title: "Example Project"
+    excerpt: "Here's where we'll add a quick blurb about the mapping task & end user agency."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Start Mapping"      
 ---
 
 {% include feature_row %}
