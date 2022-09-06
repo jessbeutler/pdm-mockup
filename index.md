@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Start Mapping"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Public Domain Map is a project of OpenStreetMap US that allows map contributors across the United States to edit, contribute to, and consume federal datasets via a collaborative user environment and modified versions of popular OpenStreetMap tools; simultaneously improving government datasets and OpenStreetMap.<br />
+  Join the volunteer movement to improve, collect, and publish open geospatial data that can be used by government agencies, private industry, and nonprofits to better inform policy decisions.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/fra_railroadtunnels.png
