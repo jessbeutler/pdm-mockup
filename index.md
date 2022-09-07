@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets/images/tm_pd_map_banner_with_white_layer.jpg
+  overlay_image: assets/images/pdm-adjusted-banner.png
   actions:
     - label: "<i class='fas fa-download'></i> Start Mapping"
       url: "/docs/quick-start-guide/"
