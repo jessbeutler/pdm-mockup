@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/pdm-adjusted-banner.png
   actions:
-    - label: "<i class='fas fa-download'></i> Start Mapping"
+    - label: "<i class="fa-solid fa-map-location-dot"></i> Start Mapping"
       url: "/docs/quick-start-guide/"
 excerpt: >
   Join the volunteer movement to improve, collect, and publish open geospatial data that can be used by government agencies, private industry, and nonprofits to better inform policy decisions.<br />
