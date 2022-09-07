@@ -10,7 +10,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Join the volunteer movement to improve, collect, and publish open geospatial data that can be used by government agencies, private industry, and nonprofits to better inform policy decisions.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Learn more</a></small>
 feature_row:
   - image_path: /assets/images/fra_railroadtunnels.png
     alt: "customizable"
