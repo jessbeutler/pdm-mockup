@@ -11,8 +11,6 @@ header:
 excerpt: >
   Join the volunteer movement to improve, collect, and publish open geospatial data that can be used by government agencies, private industry, and nonprofits to better inform policy decisions.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-intro: 
-  - excerpt: '# **MAP FOR PUBLIC GOOD**'
 feature_row:
   - image_path: /assets/images/fra_railroadtunnels.png
     alt: "customizable"
@@ -36,7 +34,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Start Mapping"      
 ---
-
-{% include feature_row id="intro" type="left" %}
 
 {% include feature_row %}
