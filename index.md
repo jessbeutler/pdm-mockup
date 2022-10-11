@@ -36,15 +36,21 @@ feature_row:
 gallery:
   - url: https://www.usgs.gov/
     image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
-    alt: "USGS" 
+    alt: "USGS"
+  - url: https://www.transportation.gov/
+    image_path: https://www.transportation.gov/sites/dot.gov/files/sxsw/images/us-dot.png
+    alt: "US DOT"
+  - url: https://railroads.dot.gov/
+    image_path: https://www.transportation.gov/sites/dot.gov/files/sxsw/images/us-dot.png
+    alt: "FRA"
 ---
 
 {% include feature_row %}
 
 {% capture notice-2 %}
-*"Many government agencies and private companies are unwilling to accept the legal risk of using data not explicitly placed in the public domain. Removing these restrictions fosters data sharing, the creation of knowledge, and cultivates understanding.”*
+# *"Many government agencies and private companies are unwilling to accept the legal risk of using data not explicitly placed in the public domain. Removing these restrictions fosters data sharing, the creation of knowledge, and cultivates understanding.”*
 
-Derald Dudley, Transportation Theme Lead, NSDI, USDOT
+### Derald Dudley, Transportation Theme Lead, NSDI, USDOT
 {% endcapture %}
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
