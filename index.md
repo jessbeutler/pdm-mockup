@@ -32,7 +32,19 @@ feature_row:
     excerpt: "Here's where we'll add a quick blurb about the mapping task & end user agency."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Start Mapping"      
+    btn_label: "Start Mapping"
+gallery:
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS" 
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS" 
 ---
 
 {% include feature_row %}
+
+{% include gallery id="gallery" caption="Our Partners" %}
