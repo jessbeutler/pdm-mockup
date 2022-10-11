@@ -47,4 +47,8 @@ gallery:
 
 {% include feature_row %}
 
-{% include gallery id="gallery" caption="Our Partners" %}
+## Who uses Public Domain Map data?
+
+{% include gallery id="gallery" %}
+
+Interested in using Public Domain Map for your agency? Reach out to info@publicdomainmap.org
