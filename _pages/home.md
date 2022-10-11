@@ -32,7 +32,21 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+gallery2:
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"
+  - url: https://www.usgs.gov/
+    image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
+    alt: "USGS"    
 ---
 
 {% include feature_row %}
+
+{% include gallery id="gallery2" caption="Our Partners" %}
+
+
