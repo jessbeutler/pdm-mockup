@@ -19,16 +19,10 @@ feature_row:
     alt: "fully responsive"
     title: "Bridges in Michigan"
     excerpt: "More details on this project available soon!"
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Start Mapping"
   - image_path: /assets/images/mountain_trail_stock.jpg
     alt: "100% free"
     title: "Trail Network in Washington"
     excerpt: "More details on this project available soon!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Start Mapping"
 gallery:
   - url: https://www.usgs.gov/
     image_path: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/USGS_logo_green.png
