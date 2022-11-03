@@ -15,9 +15,6 @@ feature_row:
     alt: "customizable"
     title: "Railroad Tunnels in Colorado"
     excerpt: "Assist the Federal Railroad Administration in mapping the location of railroad tunnels in Colorado."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Start Mapping"
   - image_path: /assets/images/covered-bridge-in-forest-2.jpg
     alt: "fully responsive"
     title: "Bridges in Michigan"
