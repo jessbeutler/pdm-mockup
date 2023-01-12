@@ -1,6 +1,9 @@
 ---
 permalink: /pilot/
 title: "Public Domain Map Pilot"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 # Part I Instructions
