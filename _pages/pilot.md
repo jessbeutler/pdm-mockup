@@ -4,9 +4,15 @@ title: "Public Domain Map Pilot"
 header:
   overlay_color: "#5e616c"
   overlay_image: assets/images/pdm-adjusted-banner.png
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
+sidebar:
+  - title: "Part I Instructions"
+    image: "/assets/images/your-image.jpg"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-pilot-1
+classes: wide
 ---
 
 # Part I Instructions
