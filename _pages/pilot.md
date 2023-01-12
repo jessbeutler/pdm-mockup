@@ -1,4 +1,9 @@
-# Public Domain Map Pilot: Part I Instructions
+---
+permalink: /pilot/
+title: "Public Domain Map Pilot"
+---
+
+# Part I Instructions
 
 **Thank you for participating in the Public Domain Map pilot!** 
 
