@@ -85,6 +85,12 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/publicdomainmap"
 
+# Collections
+collections:
+  learn:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
