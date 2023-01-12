@@ -1,6 +1,9 @@
 ---
 permalink: /pilot/
 title: "Public Domain Map Pilot"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: assets/images/pdm-adjusted-banner.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
