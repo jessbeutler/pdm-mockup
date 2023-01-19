@@ -144,8 +144,7 @@ Mapping features which are the focus point of the project are explained in furth
 
 The overview map on the right-hand side of the project you have selected is split into squares which are colour coded dependent on the completion of the mapping in that square. If you do not see the grid on the map, click "Zoom to Tasks".
 
-![](https://github.com/publicdomainmap/public_files/blob/main/TM_instructions_images/taskingmanager_navigate%20project.gif?raw=true
-)
+![](https://github.com/publicdomainmap/public_files/blob/main/TM_instructions_images/taskingmanager_navigate%20project.gif?raw=true)
 
 
 
